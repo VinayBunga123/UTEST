@@ -1,0 +1,15 @@
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\bin\Debug\Cal.dll
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\bin\Debug\Cal.pdb
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\obj\Debug\Cal.csproj.AssemblyReference.cache
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\obj\Debug\Cal.csproj.CoreCompileInputs.cache
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\obj\Debug\Cal.dll
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\obj\Debug\Cal.pdb
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\bin\Debug\nunit.engine.dll
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\bin\Debug\nunit.engine.api.dll
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\bin\Debug\nunit.engine.core.dll
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\bin\Debug\nunit.framework.dll
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\bin\Debug\nunit.framework.xml
+C:\Users\Vinay_Bunga\source\repos\Cal\Cal\obj\Debug\Cal.csproj.CopyComplete
